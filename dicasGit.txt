@@ -1,0 +1,12 @@
+Comandos básicos
+
+1) Clonagem do repositório a primeira vez
+git clone <endereço>
+
+2) Enviando códigos construidos na estação de trabalho
+git add .
+git commit -m "mensagem para equipe"
+git push 
+
+3) buscando códigos do servidor para estação de trabalho
+git pull
